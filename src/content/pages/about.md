@@ -4,7 +4,7 @@ title: Unleash the Power of Web Development with Vitesse Theme for Astro
 
 ![About Image](/about.jpg)
 
-In the ever-evolving landscape of web development, staying ahead requires harnessing cutting-edge tools and frameworks that streamline workflows and empower developers to unleash their creativity. Enter Vitesse Theme for Astro: a game-changing template that combines the best of Vue.js, Unocss, and modern design principles to revolutionize frontend development.
+Ciao Ciao
 
 At its core, Vitesse Theme for Astro is all about efficiency without sacrificing aesthetics. Inspired by the sleek design of antfu.me, this template offers a visually stunning experience while ensuring seamless integration with Vue.js and Unocss. Whether you're building a personal blog, a portfolio, or a business website, Vitesse Theme for Astro provides the flexibility and versatility to bring your vision to life.
 
