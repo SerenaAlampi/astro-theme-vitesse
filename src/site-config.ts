@@ -36,7 +36,7 @@ export const siteConfig = {
     <p>Elevate your web development journey with Vitesse Theme for Astro. Experience the perfect synergy of Vue, Unocss, and modern design principles to create stunning web applications that captivate and engage your audience.</p>
      `,
     image: {
-      src: 'hero.jpg',
+      src: 'Brainstorming 10:01:23.jpeg',
       alt: '',
     },
     socialLinks: [],
