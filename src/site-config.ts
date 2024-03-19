@@ -23,7 +23,7 @@ export const siteConfig = {
     },
   ],
   hero: {
-    title: 'Welcome to Vitesse Theme for Astro',
+    title: 'Ciao',
     text: `<p>Experience the perfect blend of efficiency and aesthetics with Vitesse Theme for Astro. Inspired by the sleek design of antfu.me, this template seamlessly integrates Vue and Unocss to provide you with a cutting-edge development experience.</p>
     <p><b>Key Features:</b></p>
     <ol>
